@@ -15,6 +15,10 @@
 
 <p>Neste repositório está disponível o back-end do projeto.</p>
 
+<p> Acesso a aplicação aqui:
+  <a href="https://food-explorer-web00.netlify.app/">Food Explorer</a>
+</p>
+
 <h2 id="pages">Páginas</h2>
 1. Usuários
 2. Pratos
