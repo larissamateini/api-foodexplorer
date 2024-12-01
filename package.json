@@ -1,7 +1,7 @@
 {
-  "name": "food-explorer-backend",
+  "name": "foodexplorer-api",
   "version": "1.0.0",
-  "description": "API desenvolvida no programa Explorer da Rocketseat.",
+  "description": "Back-end project food explorer",
   "main": "index.js",
   "scripts": {
     "start": "pm2-runtime start ecosystem.config.js --env production",

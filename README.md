@@ -1,4 +1,4 @@
-<h1 align="center" style="text-align: center;">
+<h1 align="center">
   Food Explorer
 </h1>
 <br/>
@@ -38,11 +38,12 @@
 9. Multer
 10. PM2
 11. CORS
+12. dotenv
 
 <h2 id="usage">Para executar localmente</h2>
 1. O ``Node.js`` e o ``npm`` devem estar instalados.
 
-2. Dependências:
+2. Instalar dependências:
 ```
 $ npm install
 ```
