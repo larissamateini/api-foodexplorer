@@ -1,5 +1,4 @@
 <h1 align="center" style="text-align: center;">
-  <img alt="Logo Food Explorer" src="./src/assets/logo.svg">
   Food Explorer
 </h1>
 <br/>
