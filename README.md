@@ -3,10 +3,10 @@
 </h1>
 <br/>
 <p align="center">
-  <a href="#project">Projeto</a>&nbsp;|&nbsp;
-  <a href="#database">Database</a>&nbsp;|&nbsp;
-  <a href="#technologies">Tecnologias</a>&nbsp;|&nbsp;
-  <a href="#usage">Executar</a>&nbsp;|&nbsp;
+  <a href="#project">Projeto </a>
+  <a href="#database">Database </a>
+  <a href="#technologies">Tecnologias </a>
+  <a href="#usage">Executar </a>|
 </p>
 
 <h2 id="project">Projeto</h2>
