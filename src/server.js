@@ -13,12 +13,12 @@ const app = express();
 app.use(express.json());//ativa o middleware que analisa o body das requests JSON e o torna acessível por request.body
 app.use(cookieParser());
 
-//app.use(cors()); //ativa o middleware cors
-app.use(cors({
+app.use(cors()); //ativa o middleware cors
+/*app.use(cors({
   origin: ["https://menu-food-explorer.netlify.app/", "http://localhost:3333","http://localhost:5173", "http://127.0.0.1:5173"],
   credentials: true, //para utilizar o cookie
   allowedHeaders: ['Content-Type', 'Authorization'],
-}));
+}));*/
 
 app.use("/files", express.static(uploadConfiguration.UPLOADS_FOLDER)); //requests de /files serão redirecionados para a pasta definida em config
 
