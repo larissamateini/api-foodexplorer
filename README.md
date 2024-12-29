@@ -12,18 +12,20 @@
 ## 📄 Projeto
 
 O **Food Explorer** é uma aplicação de cardápio digital, desenvolvida como o desafio final do curso **Explorer** da Rocketseat.
+O objetivo do projeto é a criação de uma plataforma em que os usuários clientes possam filtrar e visualizar detalhes de pratos de um restaurante para realizar pedidos, enquanto os usuários administradores têm a capacidade de gerenciar o cardápio, podendo criar novos pratos, editá-los e excluí-los. Essa API se conecta com o front-end, assim permitindo que os dados da aplicação sejam armazenados em um banco de dados corretamente, e também garantindo a autentificação e autorização dos usuários para as rotas permitidas.
 
-Neste repositório, está disponível o **back-end** do projeto.
+Neste repositório está disponível o back-end do projeto, já o repositório do **front-end** está disponível [aqui](https://github.com/larissamateini/web-foodexplorer).
 
-🔗 **Acesse a aplicação aqui**:  
-[Food Explorer](https://menu-food-explorer.netlify.app/)
+🔗 **Acesse a aplicação aqui**: [Food Explorer](https://menu-food-explorer.netlify.app/)
 
 ---
 
 ## 🗃️ Database
 
+O banco de dados é composto pelas seguintes tabelas:
+
 - **users**: Usuário comum ou administrador
-- **dishes**: Estrutura dos pratos indiviuais criados apenas pelos usuários administradores
+- **dishes**: Estrutura dos pratos indiviuais (criados apenas pelos usuários administradores)
 - **ingredients**: Tags de ingredientes dos pratos
 
 ---
